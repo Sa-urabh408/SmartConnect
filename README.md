@@ -12,7 +12,7 @@
   </p>
 
   <h3>
-    <a href="./APK/SmartConnect.apk">🚀 Download Latest SmartConnect APK</a>
+    <a href="https://github.com/Sa-urabh408/SmartConnect/releases/latest/download/SmartConnect.apk">🚀 Download Latest SmartConnect APK</a>
   </h3>
 </div>
 
@@ -50,7 +50,7 @@ To test or edit the application locally:
    ```bash
    git clone https://github.com/Sa-urabh408/SmartConnect.git
    ```
-2. **Download the App** directly by clicking the [APK Link Here](./APK/SmartConnect.apk).
+2. **Download the App** directly by clicking the [APK Link Here](https://github.com/Sa-urabh408/SmartConnect/releases/latest/download/SmartConnect.apk).
 3. If building from source, open in **Android Studio**.
 4. Configure your own `google-services.json` via Firebase Console and drop it in the `/app` folder.
 5. Sync Gradle and run on your Emulator/Device!
